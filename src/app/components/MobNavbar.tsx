@@ -1,6 +1,8 @@
 import React from 'react'
 import { FiHeart } from 'react-icons/fi'
-import { AiOutlineHome , AiOutlineAppstore } from 'react-icons/ai'
+
+import { AiOutlineAppstore, AiOutlineHome } from "react-icons/ai";
+
 import { HiOutlineShoppingBag } from 'react-icons/hi'
 import { IoMenuOutline  } from 'react-icons/io5'
 
